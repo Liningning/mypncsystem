@@ -4,7 +4,7 @@ pre-run:
 1, **lmp2pdb.py** data.dat (generate .psf and .pdb for post-processing)
 
 2, **makepair** will generate a pair_potential file for you, revise it if needed.
-
+3, ....
 run:
 
 1, **runlist.bash**
